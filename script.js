@@ -136,7 +136,7 @@ const products = [
     subtext: "Heavy Glass Sheen · Pure Silk Texture · Extreme Flatness",
     lengths: ['16"', '18"', '20"', '22"'],
     selectedLength: '18"',
-    price: 209000,
+    price: 506000,
     image: "./assets/dolly img 7.jpg",
   },
   {
@@ -149,7 +149,7 @@ const products = [
     subtext: "Undetectable Scalp Illusion · Free Part · Hand Tied",
     lengths: ['14"', '16"', '18"', '20"'],
     selectedLength: '16"',
-    price: 197000,
+    price: 1197000,
     image: "./assets/dolly img 6.png",
   },
 ];
